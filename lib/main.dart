@@ -2,6 +2,8 @@ import 'package:climater_project_application/welcome_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+var globalMessagerKey = GlobalKey<ScaffoldMessengerState>();
+
 void main() {
   runApp(const MyApp());
 }
