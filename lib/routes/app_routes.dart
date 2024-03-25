@@ -1,5 +1,5 @@
 import 'package:climater_project_application/presentations/homepage/homepage_screen.dart';
-import 'package:climater_project_application/presentations/welcome_screen/splash_screen.dart';
+import 'package:climater_project_application/presentations/welcome_screen/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 class AppRoute {
